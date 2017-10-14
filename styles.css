@@ -1,0 +1,10 @@
+body {
+	font-family: "Ubuntu";
+	font-size: 50px;
+}
+
+.box{
+	margin: 0px auto;
+	width: 400px;
+	padding-top: 80px;
+}
